@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitansu04&show_icons=true&locale=en&layout=compact" alt="sitansu04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitansu04&show_icons=true&locale=en" alt="sitansu04" /></p>
-<br><br><br><br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitansu04&" alt="sitansu04" /></p>
-<br><br><br><br>
+<br><br>
 <p><a href="https://www.buymeacoffee.com/SitansuMandal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SitansuMandal" /></a></p>
