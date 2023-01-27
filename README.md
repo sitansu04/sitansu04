@@ -1,4 +1,10 @@
+<div align="center">
+  <img src="https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Sitansu Mandal</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
 <h3 align="center">An enthusiastic Web Developer, a lifelong learner, skilled in Node.js Backend Development. Knowledge of JavaScript, HTML , CSS , Node.js, Express.js and MongoDB. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Web Applications while facilitating organization in achieving function goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitansu04&label=Profile%20views&color=0e75b6&style=flat" alt="sitansu04" /> </p>
