@@ -8,17 +8,16 @@
 <h3 align="center">An enthusiastic Web Developer, a lifelong learner, skilled in Node.js Backend Development. Knowledge of JavaScript, HTML , CSS , Node.js, Express.js and MongoDB. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Web Applications while facilitating organization in achieving function goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitansu04&label=Profile%20views&color=0e75b6&style=flat" alt="sitansu04" /> </p>
-<a href='https://sitansu04.github.io/'><img src="https://img.shields.io/badge/Portfolio-green"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitansu04" alt="sitansu04" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sitansu04](https://github.com/sitansu04)
+- 👨‍💻 All of my projects are available at <a href='https://sitansu04.github.io/'><img src="https://img.shields.io/badge/Portfolio-green"></a>
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **sitansugcelt@gmail.com**
+<!-- - 📫 How to reach me **sitansugcelt@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
